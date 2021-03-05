@@ -1,0 +1,2 @@
+# NATOPhoneticAlphabet
+terminal nato phonics 
